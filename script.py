@@ -1,6 +1,6 @@
-'''print(date.year) 
-print(date.month)
-print(date.day)'''
+'''print(then.year) 
+print(then.month)
+print(then.day)'''
 
 import datetime
 
