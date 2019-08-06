@@ -20,7 +20,7 @@ hours = delta.days * 24
 seconds = hours * 60
 years = months // 12
 
-print('Ты прожил',years,'лет,')
+print('Вы прожили',years,'лет,')
 print('Или',months,'месяцев,')
 print('Или',weeks,'недель,')
 print('Или',days,'дней,')
